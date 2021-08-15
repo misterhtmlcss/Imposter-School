@@ -1,4 +1,7 @@
 # README
+https://travis-ci.org/misterhtmlcss/Imposter-School.png?branch=main
+https://travis-ci.org/misterhtmlcss/{{project_name}}.png?branch={{branch}}
+https://travis-ci.com/github/misterhtmlcss/Imposter-School/branches
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
