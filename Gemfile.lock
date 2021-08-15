@@ -182,6 +182,7 @@ GEM
       rspec-expectations (~> 3.10)
       rspec-mocks (~> 3.10)
       rspec-support (~> 3.10)
+    rspec-simplecov (0.2.2)
     rspec-support (3.10.2)
     sass-rails (6.0.0)
       sassc-rails (~> 2.1, >= 2.1.1)
@@ -257,6 +258,7 @@ DEPENDENCIES
   rack-mini-profiler (~> 2.0)
   rails (~> 6.1.4)
   rspec-rails (~> 5.0.0)
+  rspec-simplecov
   sass-rails (>= 6)
   simplecov
   spring
