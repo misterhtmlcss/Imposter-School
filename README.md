@@ -1,4 +1,6 @@
 # README
+[![Build Status](https://travis-ci.org/misterhtmlcss/Imposter-School.png?branch=main)](https://travis-ci.org/misterhtmlcss/Imposter-School)
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
