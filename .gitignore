@@ -26,6 +26,7 @@
 .byebug_history
 
 # Ignore master key for decrypting credentials and more.
+
 /config/master.key
 
 /public/packs
@@ -34,3 +35,6 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
+
+# Ignore IDE config and other odds and ends.
+.vscode
