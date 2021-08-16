@@ -67,6 +67,8 @@ GEM
       msgpack (~> 1.0)
     builder (3.2.4)
     byebug (11.1.3)
+    codecov (0.5.2)
+      simplecov (>= 0.15, < 0.22)
     concurrent-ruby (1.1.9)
     crass (1.0.6)
     diff-lcs (1.4.4)
@@ -180,6 +182,7 @@ GEM
       rspec-expectations (~> 3.10)
       rspec-mocks (~> 3.10)
       rspec-support (~> 3.10)
+    rspec-simplecov (0.2.2)
     rspec-support (3.10.2)
     sass-rails (6.0.0)
       sassc-rails (~> 2.1, >= 2.1.1)
@@ -247,6 +250,7 @@ PLATFORMS
 DEPENDENCIES
   bootsnap (>= 1.4.4)
   byebug
+  codecov
   jbuilder (~> 2.7)
   listen (~> 3.3)
   pg (~> 1.1)
@@ -254,6 +258,7 @@ DEPENDENCIES
   rack-mini-profiler (~> 2.0)
   rails (~> 6.1.4)
   rspec-rails (~> 5.0.0)
+  rspec-simplecov
   sass-rails (>= 6)
   simplecov
   spring
